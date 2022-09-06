@@ -1,1 +1,1 @@
-# Lista Java Script
+# Lista JavaScript
